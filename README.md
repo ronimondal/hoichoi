@@ -8,7 +8,7 @@ This is a hoichoi tv downloader. With the new Version 2.0 you can download or st
 
 ### :fire: :fire: Android :fire: :fire:
 
-**Download the APK from here: [Hoichoi TV](https://boitoi.in/wp-content/hoichoi.apk)**
+**Download the APK from here: [Hoichoi TV](https://boitoi.in/hoichoi.apk)**
 
 #### Tampermonkey
 
